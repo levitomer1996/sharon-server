@@ -1,0 +1,5 @@
+server:
+  origin: 'https://compassionate-hoover-bdb121.netlify.com/'
+
+db:
+  synchronize: true
