@@ -1,5 +1,5 @@
 server:
-  origin: 'https://compassionate-hoover-bdb121.netlify.com/'
+  origin: 'amorcycle.com'
 
 db:
-  synchronize: true
+  synchronize: false

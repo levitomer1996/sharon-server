@@ -1,8 +1,8 @@
 db:
-  host: 'localhost'
-  username: 'postgres'
-  password: 'junkerms1'
-  sychronize: true
+  host: 'www.amorcycle.com'
+  username: 'amorcycl_tomerking'
+  password: '5_K~]rNa~ZC['
+  synchronize: true
 
 jwt:
   secret: 'tomer'
